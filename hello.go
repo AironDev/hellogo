@@ -1,5 +1,6 @@
 package main
 import "fmt"
 func main() {
-    fmt.Println("Aniebiet Aaron")
+	var name string = "Aniebiet Aaron"
+    fmt.Println("My name is ", name)
 }
